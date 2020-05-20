@@ -1,5 +1,5 @@
 # Vuepress Plugin Disqusjs
-🔌 Register a global `<Disqusjs />` component to add to your layouts.
+🔌 Register a global `<DisqusJS />` component to add to your layouts.
 
 This plugins is a vuepress wrapper of [DisqusJS](https://github.com/SukkaW/DisqusJS).
 
@@ -34,7 +34,7 @@ This plugin present a out-of-box SSR-friendly component  - `<Disqusjs/>`. Just p
   <div>
     <Content />
     <!-- ...... -->
-    <Disqusjs />
+    <DisqusJS />
   </div>
 </template>
 ```
