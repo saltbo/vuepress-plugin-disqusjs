@@ -1,5 +1,3 @@
-# vuepress-plugin-disqusjs
-
 # Vuepress Plugin Disqusjs
 🔌 Register a global `<Disqusjs />` component to add to your layouts.
 
