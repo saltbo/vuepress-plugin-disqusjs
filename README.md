@@ -64,4 +64,4 @@ Prop            | Data Type  | required  | Description
 
 See the table above. All the props are also configuration options for this plugin. They'll be passed to every `Disqusjs` component. You're still able to override it by passing down props. Note that if you don't set language, it'll use VuePress's $lang as default language.
 
-There's still one option available - `name` which specifies the name of the disqus component. Defaults to: `Disqusjs`.
+There's still one option available - `name` which specifies the name of the disqus component. Defaults to: `DisqusJS`.
