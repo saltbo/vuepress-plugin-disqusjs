@@ -19,6 +19,7 @@ yarn add vuepress-plugin-disqusjs
 plugins: {
     'disqusjs': { /* options */ }
 },
+
 ```
 
 Please check out [Config](#config) for options.
