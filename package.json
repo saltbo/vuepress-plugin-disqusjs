@@ -1,11 +1,14 @@
 {
   "name": "vuepress-plugin-disqusjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/saltbo/vuepress-plugin-disqusjs",
   "author": "saltbo <saltbo@foxmail.com>",
   "license": "MIT",
   "dependencies": {
     "disqusjs": "^1.2.6"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   }
 }
