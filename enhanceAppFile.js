@@ -14,7 +14,7 @@ export default ({ Vue }) => {
 
         // SSR-friendly
         if (parent._isMounted) {
-          console.log(options)
+          // console.log(options)
 
           return h(DisqusJS, {
             props: Object.assign(options, props)
